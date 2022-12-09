@@ -6,7 +6,6 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <HelloWorld msg="Hola Mundo" />
-  <h1>Hola mundooo</h1>
 </template>
 
 <style scoped>
