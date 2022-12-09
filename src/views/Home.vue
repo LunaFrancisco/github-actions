@@ -3,7 +3,10 @@
         <Usuario
         nombre="Francisco"
         apellido="Luna"
-        email="pancholate.luna@gmail.com"        />
+        email="pancholate.luna@gmail.com"
+        linkedin="https://www.linkedin.com/in/francisco-javier-luna-fern%C3%A1ndez-a2615921a/"
+        githubPage="https://github.com/LunaFrancisco"
+        />
     </div>
 </template>
 <script >
