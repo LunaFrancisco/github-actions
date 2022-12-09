@@ -1,11 +1,11 @@
 <script setup>
+import Usuario from './components/Usuario/index.vue'
 // This starter template is using Vue 3 <script setup> SFCs
 // Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
-import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <HelloWorld msg="Hola Mundo" />
+  <router-view> </router-view>
 </template>
 
 <style scoped>
